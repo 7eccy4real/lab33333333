@@ -28,6 +28,5 @@ int main() {
 	sp.CalculateVolume();
 	sp.ShowInfo();
 
-
 	return 0;
 }
